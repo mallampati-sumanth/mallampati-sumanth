@@ -51,6 +51,7 @@
 ---
 
 ## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mallampati-sumanth&theme=tokyo-night)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight)
 
