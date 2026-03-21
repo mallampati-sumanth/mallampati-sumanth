@@ -99,12 +99,6 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 HDFC Parivartan Leadership Scholar
-* 🧠 Smart India Hackathon Finalist
-* 🎓 KL University Excellence Award
-
 ---
 
 ## 📜 Certifications
@@ -116,11 +110,7 @@
 
 ---
 
-## 🤝 Leadership
 
-* 🚀 Built a tech community of **1000+ learners**
-
----
 
 ## 📊 GitHub Stats
 
