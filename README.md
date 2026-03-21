@@ -1,1 +1,103 @@
-:# 👋 Hi there, I'm Mallampati Sumanth 💡 Passionate about building scalable software and AI-driven solutions 🚀 Continuously learning new technologies and solving real-world problems --- ## 🛠️ Tech Stack ### 💻 Programming Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) --- ### ⚙️ Frameworks & Libraries ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) --- ### 🗄️ Databases ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) --- ### 🚀 DevOps & Tools ![Git](https://img.shields.io/badge/Git-FF6F00?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) --- ### 🤝 Professional Skills - Problem Solving - Team Collaboration - Communication - Project Planning & Execution --- ## 📊 GitHub Stats ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mallampati-sumanth&theme=tokyo-night) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com/?user=mallampati-sumanth&theme=tokyonight) --- ## 🌐 Connect With Me 📧 Email: **2300040361eceelge@gmail.com** 💼 LinkedIn https://linkedin.com/in/sumanth-mallampati 🐙 GitHub https://github.com/mallampati-sumanth 🧩 LeetCode *(Add link if available)* --- ⭐ Always open to collaboration, learning new technologies, and building impactful AI projects.
+# 👋 Mallampati Sumanth
+
+**AI Engineer | Full-Stack Developer**
+
+Building scalable AI-driven systems and solving real-world problems across domains like healthcare, education, and retail.
+
+---
+
+## 🧠 About Me
+
+* 🎯 Focused on **Machine Learning, Generative AI, and Backend Systems**
+* ⚡ Experienced in building **end-to-end AI pipelines**
+* 📊 Strong at **turning data into impactful solutions**
+* 🚀 Currently training at **Calibo AI Academy**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • SQL • Java • C • HTML • CSS
+
+**Frameworks & Libraries:**
+Django • Flask • REST APIs • Hugging Face
+
+**Databases:**
+MySQL • PostgreSQL • Firebase • SQLite
+
+**Tools & Platforms:**
+Git • Docker • Tableau • Power BI
+
+---
+
+## 💼 Experience
+
+### AI Engineering Trainee — Calibo AI Academy *(Dec 2025 – Present)*
+
+* Worked on real-world ML & GenAI use cases across multiple domains
+* Built and deployed **end-to-end ML pipelines**
+* Hands-on with **LLMs, deep learning, and MLOps workflows**
+* Developed **scalable AI + backend integrated systems**
+
+---
+
+## 🚀 Projects
+
+### 🔹 KLU ONE – Unified Student Platform
+
+* Used by **2,200+ students** with **400K+ impressions**
+* Reduced navigation time by **40%**
+* Improved efficiency by **60%**
+* Tech: Flask, MySQL, HTML/CSS
+
+---
+
+### 🔹 SagarSetu – Coastal Hazard Reporting System
+
+* Multi-modal input: **text, image, voice**
+* ML-based classification system
+* 🏆 **Top 5 – Smart India Hackathon 2025**
+* Tech: Django, Hugging Face, SQLite, Twilio
+
+---
+
+## 🏆 Achievements
+
+* HDFC Parivartan Leadership Scholar (30,000+ applicants)
+* Smart India Hackathon 2025 Finalist
+* KL University Excellence Award
+
+---
+
+## 📜 Certifications
+
+* Salesforce Certified AI Associate
+* Oracle Generative AI Professional
+* GitHub Foundations
+* Scrum Fundamentals Certified
+
+---
+
+## 🤝 Leadership
+
+* Built a tech community with **1000+ learners**
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mallampati-sumanth\&show_icons=true\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=mallampati-sumanth\&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+
+📧 [2300040361eceelge@gmail.com](mailto:2300040361eceelge@gmail.com)
+💼 https://linkedin.com/in/sumanth-mallampati
+🐙 https://github.com/mallampati-sumanth
+
+---
+
+⭐ *Open to opportunities, collaborations, and building impactful AI products.*
