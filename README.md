@@ -1,74 +1,44 @@
-<!-- PROFILE HEADER WITH ANIMATION -->
+<!-- DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mallampati+Sumanth;AI+Engineer+%26+Full-Stack+Developer;QA+%26+Automation+Expert;Building+Scalable+AI+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9C7C,100:1E6B5E&height=200&section=header&text=Mallampati%20Sumanth&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
-  Mallampati Sumanth
-</h1>
-
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" />
-  AI Engineer • Full-Stack Developer • QA & Automation
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  AI Engineer | Full-Stack Developer | QA & Automation
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="mailto:2300040361eceelge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Email-2300040361eceelge%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sumanth-mallampati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-sumanth--mallampati-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mallampati-sumanth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/GitHub-mallampati--sumanth-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://portfolio-sumanth.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20"/>
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF00?style=flat-square&logo=statuspage&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mallampati-sumanth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mallampati-sumanth?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat" alt="Open to Work" />
-</p>
+<br/>
 
----
-
-## 🎯 **Impact Snapshot**
-
+<!-- QUICK METRICS -->
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" />
-        <br />
-        <strong>2,200+</strong>
-        <br />
-        Platform Users
+        <img src="https://img.shields.io/badge/🚀-2.2K%2B%20Users-2D9C7C?style=for-the-badge"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="40" />
-        <br />
-        <strong>400K+</strong>
-        <br />
-        Platform Impressions
+        <img src="https://img.shields.io/badge/👁️-400K%2B%20Impressions-2D9C7C?style=for-the-badge"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" />
-        <br />
-        <strong>Top 5</strong>
-        <br />
-        Smart India Hackathon
+        <img src="https://img.shields.io/badge/🏆-Top%205%20SIH-2D9C7C?style=for-the-badge"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="40" />
-        <br />
-        <strong>4+</strong>
-        <br />
-        Professional Certifications
+        <img src="https://img.shields.io/badge/📜-4%2B%20Certifications-2D9C7C?style=for-the-badge"/>
       </td>
     </tr>
   </table>
@@ -76,158 +46,159 @@
 
 ---
 
-## 🧠 **About Me**
+## 💡 **About Me**
 
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
-- 🎯 **Focused on:** Machine Learning, Generative AI & Backend Systems
-- ⚡ **Built:** End-to-end AI pipelines (data → model → deployment)
-- 📊 **Strong in:** Impact-driven development & optimization
-- 🏢 **Currently:** AI Engineering Trainee at **Calibo AI Academy**
-- 🌱 **Learning:** Advanced LLM Fine-tuning & MLOps
-- 💬 **Ask me about:** Python, Django, GenAI, System Design
-- 🎯 **Goal:** Building AI solutions that impact millions
-
-<br clear="both"/>
+> 🎯 AI Engineering Trainee at **Calibo AI Academy**  
+> 🤖 Building production-grade ML pipelines & GenAI solutions  
+> ⚡ Specialized in Full-Stack Development with AI integration  
+> 📊 Data-driven mindset focused on measurable impact  
+> 🔥 Passionate about scalable systems & automation
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Technical Skills**
 
-### 💻 **Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sqlite&perline=8" />
-</div>
-
-### ⚙️ **Frameworks & Libraries**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,tensorflow,pytorch&perline=6" />
-  <br />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-### 🗄️ **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb&perline=4" />
-</div>
-
-### 🚀 **DevOps & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,githubactions,jenkins&perline=6" />
-  <br />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">💻 Languages</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">⚙️ Frameworks</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🤖 AI/ML</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">🗄️ Databases</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">🚀 DevOps</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">📊 Analytics</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 **Professional Journey**
+## 💼 **Experience**
 
-<details open>
-<summary><b>🧑‍💻 AI Engineering Trainee</b> — <i>Calibo AI Academy</i> <i>(Dec 2025 – Present)</i></summary>
-<ul>
-  <li>🚀 Building <strong>production-style ML pipelines</strong> with 99.9% uptime</li>
-  <li>🤖 Working on <strong>GenAI, LLMs, Deep Learning</strong> for enterprise solutions</li>
-  <li>💡 Solving <strong>real-world industry use cases</strong> in healthcare and finance</li>
-  <li>🔧 Developed <strong>AI-integrated backend systems</strong> handling 10K+ requests/day</li>
-</ul>
-</details>
+### 🧑‍💻 AI Engineering Trainee
+**Calibo AI Academy** · *Dec 2025 – Present*
 
-<details>
-<summary><b>📊 Data Science Intern</b> — <i>TechCorp Solutions</i> <i>(Jun 2025 – Nov 2025)</i></summary>
-<ul>
-  <li>📈 Built predictive models improving business efficiency by <strong>35%</strong></li>
-  <li>🔄 Implemented ETL pipelines processing <strong>1M+ records</strong> daily</li>
-  <li>📊 Created interactive dashboards used by <strong>50+ stakeholders</strong></li>
-</ul>
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>🎯 Key Responsibilities:</strong>
+      <ul>
+        <li>Building production-grade ML pipelines with 99.9% uptime</li>
+        <li>Implementing RAG systems and fine-tuning LLMs</li>
+        <li>Developing scalable backend systems with AI capabilities</li>
+        <li>Solving real-world problems using deep learning architectures</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <strong>📊 Impact Delivered:</strong>
+      <ul>
+        <li>✓ Production pipelines handling 10K+ requests/day</li>
+        <li>✓ LLM integration for domain-specific applications</li>
+        <li>✓ Optimized model inference with 40% latency reduction</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 **Featured Projects**
 
-### 🔷 **KLU ONE – Student Platform**
-<div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <strong>🏆 Impact Metrics:</strong>
-        <ul>
-          <li>📈 <strong>2,200+</strong> active users</li>
-          <li>👁️ <strong>400K+</strong> platform impressions</li>
-          <li>⚡ Reduced navigation time by <strong>40%</strong></li>
-          <li>🚀 Improved operational efficiency by <strong>60%</strong></li>
-        </ul>
-        <strong>🛠️ Tech Stack:</strong> Flask • MySQL • HTML/CSS • JavaScript • Bootstrap
-      </td>
-      <td width="30%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="100" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 🔷 KLU ONE – Student Platform
+**Impact:** 2,200+ users | 400K+ impressions
 
-### 🌊 **SagarSetu – Hazard Reporting System**
-<div align="center">
-  <table>
-    <tr>
-      <td width="70%">
-        <strong>🏆 Recognition:</strong> Smart India Hackathon <strong>Finalist (Top 5)</strong>
-        <ul>
-          <li>🎤 Multi-modal input (<strong>text, image, voice</strong>)</li>
-          <li>🤖 ML-based classification with <strong>92% accuracy</strong></li>
-          <li>📱 Real-time alert system with <strong>SMS notifications</strong></li>
-          <li>🌊 Deployed in <strong>coastal regions</strong> for disaster management</li>
-        </ul>
-        <strong>🛠️ Tech Stack:</strong> Django • HuggingFace • Twilio • TensorFlow • PostgreSQL
-      </td>
-      <td width="30%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" width="100" />
-      </td>
-    </tr>
-  </table>
-</div>
+| Metric | Improvement |
+|--------|-------------|
+| Navigation Time | ↓ **40%** |
+| Operational Efficiency | ↑ **60%** |
 
+**Tech Stack:** `Flask` `MySQL` `HTML/CSS` `JavaScript`
 
 ---
 
-## 📜 **Certifications **
+### 🌊 SagarSetu – Hazard Reporting System
+**Recognition:** Smart India Hackathon **Finalist (Top 5)**
+
+| Feature | Details |
+|---------|---------|
+| Input Methods | Text, Image, Voice |
+| Classification Accuracy | **92%** |
+| Alert System | Real-time SMS notifications |
+
+**Tech Stack:** `Django` `HuggingFace` `Twilio` `TensorFlow`
+
+---
+
+### 🤖 AI-Powered Resume Screener
+**Impact:** 75% reduction in screening time
+
+| Metric | Performance |
+|--------|-------------|
+| Parsing Accuracy | **95%** |
+| Screening Time Reduction | **75%** |
+
+**Tech Stack:** `Python` `spaCy` `FastAPI` `React` `MongoDB`
+
+---
+
+## 📜 **Certifications**
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Certificate.png" width="40" />
-        <br />
-        <strong>Salesforce Certified</strong>
-        <br />
-        AI Associate
+        <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=flat-square&logo=salesforce"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Certificate.png" width="40" />
-        <br />
-        <strong>Oracle Certified</strong>
-        <br />
-        Generative AI Professional
+        <img src="https://img.shields.io/badge/Oracle-GenAI_Professional-F80000?style=flat-square&logo=oracle"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Certificate.png" width="40" />
-        <br />
-        <strong>GitHub Certified</strong>
-        <br />
-        Foundations
+        <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Certificate.png" width="40" />
-        <br />
-        <strong>Scrum Certified</strong>
-        <br />
-        Fundamentals
+        <img src="https://img.shields.io/badge/Scrum-Fundamentals-6DB33F?style=flat-square"/>
       </td>
     </tr>
   </table>
@@ -235,70 +206,38 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9C7C&icon_color=2D9C7C" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallampati-sumanth&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=2D9C7C&icon_color=2D9C7C&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallampati-sumanth&theme=dark&background=0A0A0A&ring=2D9C7C&fire=2D9C7C&currStreakLabel=2D9C7C&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallampati-sumanth&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9C7C&line=2D9C7C&point=FFFFFF" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mallampati-sumanth&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mallampati-sumanth&theme=github_dark&bg_color=0A0A0A&title_color=2D9C7C&border_color=2D9C7C" width="90%" />
 </div>
 
 ---
 
-## 🌟 **What I Bring to the Table**
+## 📬 **Let's Connect**
 
-<div align="center">
-  <table>
-    <tr>
-      <td>🎯 <strong>Problem Solving</strong></td>
-      <td>🤝 <strong>Team Collaboration</strong></td>
-      <td>📊 <strong>Data-Driven Decisions</strong></td>
-    </tr>
-    <tr>
-      <td>⚡ <strong>Fast Learner</strong></td>
-      <td>🚀 <strong>Agile Methodology</strong></td>
-      <td>💡 <strong>Innovation Focus</strong></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📬 **Let's Connect!**
-
-<div align="center">
+<p align="center">
   <a href="mailto:2300040361eceelge@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Collaborate-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Email-Reach_Out-2D9C7C?style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/sumanth-mallampati">
-    <img src="https://img.shields.io/badge/Let's_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-2D9C7C?style=for-the-badge"/>
   </a>
   <a href="https://github.com/mallampati-sumanth">
-    <img src="https://img.shields.io/badge/Check_My_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐙_GitHub-Follow-2D9C7C?style=for-the-badge"/>
   </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9C7C,100:1E6B5E&height=100&section=footer" width="100%"/>
   <p>
-    <strong>⭐ Open to opportunities, collaborations, and building impactful AI products</strong>
-    <br />
     <i>"Building the future, one line of code at a time."</i>
   </p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=2D9C7C&gradientColorEnd=0077B5" width="100%" />
 </div>
