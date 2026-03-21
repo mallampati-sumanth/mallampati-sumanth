@@ -1,76 +1,130 @@
-# 👋 Hi there, I'm Mallampati Sumanth
+# 🚀 Mallampati Sumanth  
 
-💡 Passionate about building scalable software and AI-driven solutions  
-🚀 Continuously learning new technologies and solving real-world problems
+<div align="center">
 
----
+💡 **Building Scalable Systems | AI Enthusiast | Problem Solver**  
+🎯 Turning Ideas into Real-World Impact  
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
 ---
 
-### ⚙️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+## 🧠 About Me  
+
+- 🎓 Engineering Student passionate about **Software Development & AI**
+- ⚡ Building **real-world impactful projects** (3K+ users, 400K+ reach 🚀)
+- 🛠️ Strong focus on **scalable backend systems & clean architecture**
+- 📈 लगातार improving problem-solving & system design skills  
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🧩 Tech Arsenal  
+
+### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,sql" />
+</p>
 
 ---
 
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-FF6F00?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### ⚙️ Frameworks & AI  
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
 ---
 
-### 🤝 Professional Skills
-- Problem Solving  
-- Team Collaboration  
-- Communication  
-- Project Planning & Execution  
+### 🗄️ Databases  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,sqlite" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mallampati-sumanth&theme=tokyo-night)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mallampati-sumanth&theme=tokyonight)
+### 🚀 DevOps & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Engineering Metrics  
 
-📧 Email: **2300040361eceelge@gmail.com**  
+<div align="center">
 
-💼 LinkedIn  
+<img src="https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=mallampati-sumanth&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph  
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=mallampati-sumanth&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🚀 Featured Work  
+
+### 🎓 KLU ONE  
+> ⚡ **Campus Super App for KL University**
+
+- 👨‍🎓 3,000+ active users  
+- 🌐 400K+ impressions  
+- 🛠️ Built full-stack system solving real student problems  
+
+**Key Features**
+- Attendance & GPA Calculators  
+- Hostel Mess Menu System  
+- Campus Navigation  
+- Real-time Updates  
+
+---
+
+## 🧠 Core Strengths  
+
+✔ Data Structures & Algorithms  
+✔ Backend Development  
+✔ API Design  
+✔ Database Optimization  
+✔ Problem Solving Mindset  
+
+---
+
+## 🌐 Let's Connect  
+
+<div align="center">
+
+📧 **Email**  
+2300040361eceelge@gmail.com  
+
+💼 **LinkedIn**  
 https://linkedin.com/in/sumanth-mallampati  
 
-🐙 GitHub  
+🐙 **GitHub**  
 https://github.com/mallampati-sumanth  
 
-🧩 LeetCode *(Add link if available)*  
+🧩 **LeetCode**  
+*(Add your profile link)*  
+
+</div>
 
 ---
 
-⭐ Always open to collaboration, learning new technologies, and building impactful AI projects.
+## ⚡ Developer Philosophy  
+
+> *"Code should not just work — it should scale, solve, and create impact."*
+
+---
+
+<div align="center">
+
+⭐ **Open to internships, collaborations & impactful projects**  
+
+</div>
