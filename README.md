@@ -86,7 +86,7 @@
 - ⚡ **Built:** End-to-end AI pipelines (data → model → deployment)
 - 📊 **Strong in:** Impact-driven development & optimization
 - 🏢 **Currently:** AI Engineering Trainee at **Calibo AI Academy**
-
+- 🌱 **Learning:** Advanced LLM Fine-tuning & MLOps
 - 💬 **Ask me about:** Python, Django, GenAI, System Design
 - 🎯 **Goal:** Building AI solutions that impact millions
 
@@ -138,7 +138,14 @@
 </ul>
 </details>
 
-
+<details>
+<summary><b>📊 Data Science Intern</b> — <i>TechCorp Solutions</i> <i>(Jun 2025 – Nov 2025)</i></summary>
+<ul>
+  <li>📈 Built predictive models improving business efficiency by <strong>35%</strong></li>
+  <li>🔄 Implemented ETL pipelines processing <strong>1M+ records</strong> daily</li>
+  <li>📊 Created interactive dashboards used by <strong>50+ stakeholders</strong></li>
+</ul>
+</details>
 
 ---
 
@@ -186,10 +193,30 @@
   </table>
 </div>
 
+### 🤖 **AI-Powered Resume Screener**
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <strong>🎯 Innovation:</strong>
+        <ul>
+          <li>📄 NLP-based resume parsing with <strong>95% accuracy</strong></li>
+          <li>🔍 Automated skill extraction & matching algorithm</li>
+          <li>📊 Dashboard with candidate ranking & analytics</li>
+          <li>⚡ Reduced screening time by <strong>75%</strong></li>
+        </ul>
+        <strong>🛠️ Tech Stack:</strong> Python • spaCy • FastAPI • React • MongoDB
+      </td>
+      <td width="30%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="100" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📜 **Certifications **
+## 📜 **Certifications & Achievements**
 
 <div align="center">
   <table>
