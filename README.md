@@ -1,72 +1,109 @@
-# 👋 Mallampati Sumanth
+<!-- PROFILE HEADER -->
 
-**AI Engineer | Full-Stack Developer**
+<h1 align="center">👋 Mallampati Sumanth</h1>
+<h3 align="center">AI Engineer • Full-Stack Developer • QA & Automation</h3>
 
-Building scalable AI-driven systems and solving real-world problems across domains like healthcare, education, and retail.
+<p align="center">
+  <a href="mailto:2300040361eceelge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sumanth-mallampati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/mallampati-sumanth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+<p align="center">
+  🚀 Building scalable AI systems • 💡 Solving real-world problems • 📊 Data-driven mindset
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Focused on **Machine Learning, Generative AI, and Backend Systems**
-* ⚡ Experienced in building **end-to-end AI pipelines**
-* 📊 Strong at **turning data into impactful solutions**
-* 🚀 Currently training at **Calibo AI Academy**
+* 🎯 Focused on **Machine Learning, Generative AI & Backend Systems**
+* ⚡ Built **end-to-end AI pipelines (data → model → deployment)**
+* 📊 Strong in **impact-driven development & optimization**
+* 🏢 Currently at **Calibo AI Academy**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python • SQL • Java • C • HTML • CSS
+### 💻 Languages
 
-**Frameworks & Libraries:**
-Django • Flask • REST APIs • Hugging Face
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3"/>
+</p>
 
-**Databases:**
-MySQL • PostgreSQL • Firebase • SQLite
+### ⚙️ Frameworks
 
-**Tools & Platforms:**
-Git • Docker • Tableau • Power BI
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite"/>
+</p>
+
+### 🚀 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-FF6F00?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat"/>
+</p>
 
 ---
 
 ## 💼 Experience
 
-### AI Engineering Trainee — Calibo AI Academy *(Dec 2025 – Present)*
+### 🧑‍💻 AI Engineering Trainee — Calibo AI Academy *(Dec 2025 – Present)*
 
-* Worked on real-world ML & GenAI use cases across multiple domains
-* Built and deployed **end-to-end ML pipelines**
-* Hands-on with **LLMs, deep learning, and MLOps workflows**
-* Developed **scalable AI + backend integrated systems**
+* Built **production-style ML pipelines**
+* Worked on **GenAI, LLMs, Deep Learning**
+* Solved **real-world industry use cases**
+* Developed **AI-integrated backend systems**
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 KLU ONE – Unified Student Platform
+### 🔷 KLU ONE – Student Platform
 
-* Used by **2,200+ students** with **400K+ impressions**
+> 📈 2,200+ users | 400K+ impressions
+
 * Reduced navigation time by **40%**
 * Improved efficiency by **60%**
-* Tech: Flask, MySQL, HTML/CSS
+* Stack: Flask • MySQL • HTML/CSS
 
 ---
 
-### 🔹 SagarSetu – Coastal Hazard Reporting System
+### 🌊 SagarSetu – Hazard Reporting System
 
-* Multi-modal input: **text, image, voice**
+> 🏆 Smart India Hackathon Finalist (Top 5)
+
+* Multi-modal input (**text, image, voice**)
 * ML-based classification system
-* 🏆 **Top 5 – Smart India Hackathon 2025**
-* Tech: Django, Hugging Face, SQLite, Twilio
+* Stack: Django • HuggingFace • Twilio
 
 ---
 
 ## 🏆 Achievements
 
-* HDFC Parivartan Leadership Scholar (30,000+ applicants)
-* Smart India Hackathon 2025 Finalist
-* KL University Excellence Award
+* 🥇 HDFC Parivartan Leadership Scholar
+* 🧠 Smart India Hackathon Finalist
+* 🎓 KL University Excellence Award
 
 ---
 
@@ -81,23 +118,27 @@ Git • Docker • Tableau • Power BI
 
 ## 🤝 Leadership
 
-* Built a tech community with **1000+ learners**
+* 🚀 Built a tech community of **1000+ learners**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mallampati-sumanth\&show_icons=true\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=mallampati-sumanth\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mallampati-sumanth&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=mallampati-sumanth&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect
 
-📧 [2300040361eceelge@gmail.com](mailto:2300040361eceelge@gmail.com)
-💼 https://linkedin.com/in/sumanth-mallampati
-🐙 https://github.com/mallampati-sumanth
+📧 **Email:** [2300040361eceelge@gmail.com](mailto:2300040361eceelge@gmail.com)
+💼 **LinkedIn:** https://linkedin.com/in/sumanth-mallampati
+🐙 **GitHub:** https://github.com/mallampati-sumanth
 
 ---
 
-⭐ *Open to opportunities, collaborations, and building impactful AI products.*
+<p align="center">
+⭐ <i>Open to opportunities, collaborations, and building impactful AI products</i>
+</p>
