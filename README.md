@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER WITH ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mallampati+Sumanth;AI+Engineer+%26+Full-Stack+Developer;QA+%26+Automation+Expert;Building+Scalable+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mallampati+Sumanth;AIEngineer+%26+Full-Stack+Developer;QA+%26+Automation+Expert;Building+Scalable+AI+Systems" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
