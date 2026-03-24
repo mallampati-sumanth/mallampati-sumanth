@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
-  Mallampati Sumanth.
+  Mallampati-Sumanth.
 </h1>
 
 <h3 align="center">
