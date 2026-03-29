@@ -10,7 +10,7 @@
 
 <h3 align="center">
   
-  AI Engineer • Full-Stack Developer • QA & Automation .
+  AI Engineer • Full-Stack Developer • QA and Automation .
   
 </h3>
 
