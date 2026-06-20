@@ -1,31 +1,29 @@
-<!-- PROFILE HEADER WITH ANIMATION -->
+<!-- PROFILE HEADER WITH TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mallampati+Sumanth;AIEngineer+%26+Full-Stack+Developer;QA+%26+Automation+Expert;Building+Scalable+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Mallampati+Sumanth;AI+Engineer+%26+Full-Stack+Developer;QA+%26+Automation+Expert;Building+Scalable+AI+Systems" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> 
---Mallampati-Sumanth--
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
+  Mallampati Sumanth
 </h1>
 
 <h3 align="center">
-  
   AI Engineer • Full-Stack Developer • QA and Automation
-  
 </h3>
 
 <p align="center">
   <a href="mailto:2300040361eceelge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sumanth-mallampati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mallampati-sumanth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio-sumanth.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -138,8 +136,6 @@
 </ul>
 </details>
 
-
-
 ---
 
 ## 🚀 **Featured Projects**
@@ -185,7 +181,6 @@
     </tr>
   </table>
 </div>
-
 
 ---
 
@@ -289,8 +284,6 @@
   </p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColorStart=2D9C7C&gradientColorEnd=0077B5" width="100%" />
